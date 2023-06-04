@@ -17,7 +17,11 @@ To be filled in
 To be filled in
 
 ### Medical Data Visualizer
-Incomplete
+Using a given CSV for medical data, I'm asked to visualize it by reformating the data and posting it to various types of plots/maps
+- Import CSV into pandas variable
+- flatten data into long form groups of medical data to a patients ID
+- Reformat data to group it by cardio, showing each individual feature
+- Send reformated data to a matplotlib Categorical Plot
 
 ### Page View Time Series Visualizer
 Not-Started
