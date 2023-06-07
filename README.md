@@ -12,6 +12,8 @@ From freecodecamp.org "read data from sources like CSVs and SQL, and how to use 
 * Uploaded zips of replit, including boilerplate files and data. All provided by freecodecamp.org
 * PDF copy of certificate can be found in the root folder for the data analysis project
 
+https://www.freecodecamp.org/certification/Isaac_Perks/data-analysis-with-python-v7
+
 ### Mean-Varience-Standard Deviation Calculator
 To be filled in
 
