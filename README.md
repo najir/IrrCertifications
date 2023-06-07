@@ -8,7 +8,9 @@ A collection of code and projects used to complete various certifications I'm wo
 ## Data Analysis with Python
 From freecodecamp.org "read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data". The completion of this certification is broken up into 5 projects. All 5 projects are completed on replit.com imported from the freecodecamp's provided git repo.
 
+#### Completed
 * Uploaded zips of replit, including boilerplate files and data. All provided by freecodecamp.org
+* PDF copy of certificate can be found in the root folder for the data analysis project
 
 ### Mean-Varience-Standard Deviation Calculator
 To be filled in
@@ -33,4 +35,10 @@ A CSV provides date and view amounts of forum page views for freecodecamp.org.
 - Create 2 box-plots, one for yearly for trending views and the other monthly for seasonal differences
 
 ### Sea Level Predictor
-Not-Completed
+Import CSV Data from Sea level adjustments between 1880 and 2013
+- Create a scatterplot of data based on that information
+- Use Scipy's line regression to create a model based on the change in sea level between 1880 to 2013
+    - Use said model to predict sea levels by 2050 and plot a line along the graph
+- Use previous data to create a new model from 2000 to 2013
+    - Use this new model to predict a different line by 2050 and plot this along the graph as well
+
