@@ -15,10 +15,10 @@ From freecodecamp.org "read data from sources like CSVs and SQL, and how to use 
 https://www.freecodecamp.org/certification/Isaac_Perks/data-analysis-with-python-v7
 
 ### Mean-Varience-Standard Deviation Calculator
-To be filled in
+*To be filled in
 
 ### Demographic Data Analyzer
-To be filled in
+*To be filled in
 
 ### Medical Data Visualizer
 Using a given CSV for medical data, I'm asked to visualize it by reformating the data and posting it to various types of plots/maps
@@ -44,3 +44,15 @@ Import CSV Data from Sea level adjustments between 1880 and 2013
 - Use previous data to create a new model from 2000 to 2013
     - Use this new model to predict a different line by 2050 and plot this along the graph as well
 
+
+## Scientific Computing with Python
+
+### Arithmetic Formatter
+Create a formatter that takes in a standard x + y or x - y operation and formats it vertically, all inputs/outputs are strings
+from 1234 - 432 to:
+  1234
+-  432
+------
+   802
+
+*To be Filled In
