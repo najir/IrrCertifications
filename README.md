@@ -15,10 +15,28 @@ From freecodecamp.org "read data from sources like CSVs and SQL, and how to use 
 https://www.freecodecamp.org/certification/Isaac_Perks/data-analysis-with-python-v7
 
 ### Mean-Varience-Standard Deviation Calculator
-*To be filled in
+"output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix."
+
+We take in any list of 9 digits, this list is converted into a 3x3 matrix and a dictionary is returned with the above requirements.
+- Initially check for out of bounds array values and valid inputs
+- convert the list of numbers using numpy reshape to a structure of 3x3
+- Use this matrix list to create a dictionary using numpys flatten, tolist, mean functions
+- Do the same for variance, std deviation, max, min, sum numpy functions
+- Return dictionary containing completed values
 
 ### Demographic Data Analyzer
-*To be filled in
+Analyze given CSV of demographic data
+- Convert CSV to pandas dataframe
+- Manipulate and modify dataframe to check various stats
+    - Race total count
+    - Average age of men
+    - % of people with bachelors degree
+    - % of people with and without advanced educations
+    - % with salary > 50k, based on education
+    - Min hours worked in demographic
+    - % of min hours worked with >50k
+    - Country with highest % of >50k people
+    - Most popular occupation of >50k in india
 
 ### Medical Data Visualizer
 Using a given CSV for medical data, I'm asked to visualize it by reformating the data and posting it to various types of plots/maps
